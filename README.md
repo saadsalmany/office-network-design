@@ -1,4 +1,4 @@
-# Small Business Network Infrastructure
+# Office Network Infrastructure
 
 A network redesign project which transforms a company network into a secure and segmented network for each department using **VLANs**, **ACLs**, and a **Firewall**.
 
@@ -30,4 +30,4 @@ Everybody is connected to the same network, which makes the business's confident
 
 ---
 
-### By Saad Salmany – Networking and Cybersecurity Student
+### By Saad Salmany
