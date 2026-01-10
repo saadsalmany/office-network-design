@@ -26,7 +26,6 @@ Everybody is connected to the same network, which makes the business's confident
 
 - Cisco Packet Tracer  
 - Draw.io  
-- Generative AI  
 
 ---
 
