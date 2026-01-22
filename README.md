@@ -1,4 +1,4 @@
-# Office Network Infrastructure
+# Office Network Design
 
 A network redesign project which transforms a company network into a secure and segmented network for each department using **VLANs**, **ACLs**, and a **Firewall**.
 
